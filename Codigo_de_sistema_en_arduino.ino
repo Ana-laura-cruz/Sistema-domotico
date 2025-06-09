@@ -3,8 +3,8 @@
 #include <Servo.h>
 
 // WiFi y Telegram
-const char* ssid = "TotalPLAY";
-const char* password = "Terminator3";
+const char* ssid = "TecNM-ITT";
+const char* password = "";
 const char* BOT_TOKEN = "7800356049:AAFKVSJwTDSK2p3eS_6GWIpIMLhqotMZ4PA";
 const char* CHAT_ID = "-1002527647327";
 
